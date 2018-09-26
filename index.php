@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Charles Severance - Broken Rock Paper Scissors</title>
+<title>prasanna</title>
 <?php require_once "bootstrap.php"; ?>
 </head>
 <body>
